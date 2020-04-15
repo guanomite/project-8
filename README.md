@@ -33,3 +33,4 @@ The error message is highlited in bald because a different CSS class is assigned
 
 Vulnerability #2: XSS
 ![](https://github.com/guanomite/project-8-/blob/master/Screenshot%20(30).png)
+go to contact us use a XSS scrpt <script>alert('something');</script> as the public user, after that go admin then user feedback and the meassge pops up
